@@ -3,7 +3,7 @@ int main() {
     //conversão de temperatura
     int n;
     float ni, nf;
-    printf("voce quer converter de: \n1- celcius para fahrenheight\nou\n2- fahrenheight para celcius\n");
+    printf("voce quer converter de: \n1- celcius para fahrenheight\nou\n2- fahrenheight para celcius \n");
     scanf("%d",&n);
     switch (n){
         case 1: 

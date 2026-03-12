@@ -4,7 +4,7 @@ int main() {
     int n, i;
     int fatorial = 1;
 
-    printf("Forneça um numero inteiro: \n");
+    printf("Forneca um numero inteiro: \n");
     scanf("%d", &n);
 
     for (int i = 1; i <= n; i++) {
